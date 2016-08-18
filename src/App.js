@@ -9,7 +9,7 @@ class App extends Component {
       <nav className="navbar navbar-default">
     <div className="container-fluid">
       <div className="navbar-header">
-        <a className="navbar-brand" href="/"><img src="../images/updatedlogo.png" alt="logo"  /></a>
+        <a className="navbar-brand" href="/"><img width="120px" src="../images/updatedlogo.png" alt="logo"  /></a>
       </div>
 
       <div className="collapse navbar-collapse headline" id="bs-example-navbar-collapse-1">

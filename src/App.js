@@ -68,7 +68,7 @@ const resources = [
   person_id: 1,
   title: "Tutorial Horizon",
   image_url: "https://facebook.github.io/react/img/logo.svg",
-  url: "https://javascript.tutorialhorizon.com",
+  url: "http://javascript.tutorialhorizon.com",
   votes: 10,
   description: "A really good site covering React theory; lots of good diagrams",
   is_free: true,
@@ -96,7 +96,7 @@ const resources = [
   person_id: 1,
   title: "Nodeschool.io",
   image_url: "http://nodeschool.io/stavanger/graphics/stavanger-nodeschool-logo.png",
-  url: "nodeschool.io/",
+  url: "http://nodeschool.io/",
   votes: 6,
   description: "Choose-your-own-adventure style lessons and learn how to use node.js, npm and other related tools by writing code to solve realistic problems.",
   is_free: true,
@@ -136,7 +136,7 @@ class App extends Component {
       <nav className="navbar navbar-default">
     <div className="container-fluid">
       <div className="navbar-header">
-        <a className="navbar-brand" href="/"><img className="logo" src="http://i.imgur.com/dJur4X1.png" alt="logo"  /></a>
+        <a className="navbar-brand" href="/"><img className="logo" src={'http://i.imgur.com/dJur4X1.png'} alt="logo"  /></a>
       </div>
 
       <div className="collapse navbar-collapse headline" id="bs-example-navbar-collapse-1">

@@ -2,10 +2,11 @@
 
 
 .headline {
-  text-align: center;
-  margin: auto;
+  text-align: right;
 }
-
+.headline h1 {
+  font-size: 8rem;
+}
 .headline span {
   font-size: 4rem;
 }
@@ -22,15 +23,10 @@ nav img {
   height: 80px;
 }
 .logo {
-  height: 10rem;
-  width: 10rem;
+  height: 20rem;
+  width: 20rem;
+}
 
-}
-.textStuff {
-  font-size: 6rem;
-  font-family: "Cinzel", serif !important;
-  margin-right: 20vw;
-}
 .side {
   background-color: hsl(211,40%,36%);
   height: 85vh;
@@ -62,5 +58,8 @@ nav img {
 .cardScroll {
   overflow: scroll;
   height: 70vh;
-
+}
+.login {
+  float: right;
+  margin-top: 2rem;
 }

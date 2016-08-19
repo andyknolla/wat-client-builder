@@ -140,7 +140,7 @@ class App extends Component {
       </div>
 
       <div className="collapse navbar-collapse headline" id="bs-example-navbar-collapse-1">
-        <h1>W.A.T. <span><h3>WE ARE TOOLS</h3></span></h1>
+        <h1>WE ARE TOOLS</h1>
         <h2><em>Tools for learning web development</em></h2>
       </div>
     </div>

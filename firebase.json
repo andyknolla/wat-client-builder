@@ -9,9 +9,6 @@
         "source": "**",
         "destination": "/index.html"
       }
-    ]
-
-    "public": "."
- 38d1b53d1863961b282b443a31776e27839aae3b
+    ]  
   }
 }

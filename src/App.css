@@ -58,5 +58,8 @@ nav img {
 .cardScroll {
   overflow: scroll;
   height: 70vh;
-
+}
+.login {
+  float: right;
+  margin-top: 2rem;
 }
